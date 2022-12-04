@@ -1,0 +1,4 @@
+node_modules/
+work/
+Package.xml
+user_config_*.yaml

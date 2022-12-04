@@ -1,0 +1,10 @@
+loginUrl: "https://test.salesforce.com"
+apiVersion : "56.0"
+userName: "(LOGIN USER NAME)"
+password: "(LOGIN PASSWORD)"
+outputPath: "Package.xml"
+
+excludeMetadataType:  [
+  "EventRelayConfig",
+  "PortalDelegablePermissionSet",
+]
